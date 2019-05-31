@@ -11,7 +11,6 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=p
 }).addTo(map);
 
 // calling 2018 homicide data from homicide.geojson
-// L.geoJSON(homicide).addTo(map);
 var homicideLayer = L.geoJSON(homicide, {
 pointToLayer: function(feature, latlng) {
     return L.marker(latlng);

@@ -1,0 +1,12 @@
+{
+    "name": "toronto-homicide-map-2018",
+    "author": "Richard Ludwig",
+    "version": "1.0.0",
+    "description": "shows Toronto homicides, 2018 map",
+    "scripts": {
+        "start": "harp server --port $PORT"
+    },
+    "dependencies": {
+        "harp": "*"
+    }
+}
