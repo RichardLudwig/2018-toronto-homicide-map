@@ -1,0 +1,1349 @@
+var homicide = {
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5632019,43.6814995 ]
+    },
+    "properties": {
+    "index":1128,
+    "eventID":"GO-201817532",
+    "type":"Other",
+    "date":"2018-01-03T05:00:00.000Z",
+    "hood":"Willowridge-Martingrove-Richview (7)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5173416,43.6946144 ]
+    },
+    "properties": {
+    "index":1129,
+    "eventID":"GO-201854152",
+    "type":"Shooting",
+    "date":"2018-01-09T05:00:00.000Z",
+    "hood":"Humber Heights-Westmount (8)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5684204,43.6594009 ]
+    },
+    "properties": {
+    "index":1131,
+    "eventID":"GO-2018113424",
+    "type":"Shooting",
+    "date":"2018-01-19T05:00:00.000Z",
+    "hood":"Eringate-Centennial-West Deane (11)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5684204,43.6594009 ]
+    },
+    "properties": {
+    "index":1132,
+    "eventID":"GO-2018113424",
+    "type":"Shooting",
+    "date":"2018-01-19T05:00:00.000Z",
+    "hood":"Eringate-Centennial-West Deane (11)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3841553,43.6639061 ]
+    },
+    "properties": {
+    "index":1133,
+    "eventID":"GO-2018183793",
+    "type":"Stabbing",
+    "date":"2018-01-29T05:00:00.000Z",
+    "hood":"Church-Yonge Corridor (75)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3873901,43.7807274 ]
+    },
+    "properties": {
+    "index":1139,
+    "eventID":"GO-2018249547",
+    "type":"Shooting",
+    "date":"2018-02-08T05:00:00.000Z",
+    "hood":"Bayview Village (52)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.1724472,43.7821922 ]
+    },
+    "properties": {
+    "index":1140,
+    "eventID":"GO-2018289167",
+    "type":"Shooting",
+    "date":"2018-02-15T05:00:00.000Z",
+    "hood":"Highland Creek (134)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4170914,43.6801071 ]
+    },
+    "properties": {
+    "index":1141,
+    "eventID":"GO-2018366454",
+    "type":"Other",
+    "date":"2018-02-26T05:00:00.000Z",
+    "hood":"Casa Loma (96)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.520401,43.7688293 ]
+    },
+    "properties": {
+    "index":1142,
+    "eventID":"GO-2018393677",
+    "type":"Shooting",
+    "date":"2018-03-02T05:00:00.000Z",
+    "hood":"Black Creek (24)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.347229,43.7617531 ]
+    },
+    "properties": {
+    "index":1143,
+    "eventID":"GO-2018413955",
+    "type":"Stabbing",
+    "date":"2018-03-06T05:00:00.000Z",
+    "hood":"Parkwoods-Donalda (45)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5881653,43.7463188 ]
+    },
+    "properties": {
+    "index":1144,
+    "eventID":"GO-2018444497",
+    "type":"Shooting",
+    "date":"2018-03-10T05:00:00.000Z",
+    "hood":"Mount Olive-Silverstone-Jamestown (2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5174942,43.692627 ]
+    },
+    "properties": {
+    "index":1145,
+    "eventID":"GO-2018484039",
+    "type":"Shooting",
+    "date":"2018-03-16T04:00:00.000Z",
+    "hood":"Humber Heights-Westmount (8)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4556808,43.7182617 ]
+    },
+    "properties": {
+    "index":1146,
+    "eventID":"GO-2018489653",
+    "type":"Shooting",
+    "date":"2018-03-17T04:00:00.000Z",
+    "hood":"Yorkdale-Glen Park (31)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4556808,43.7182617 ]
+    },
+    "properties": {
+    "index":1147,
+    "eventID":"GO-2018489653",
+    "type":"Shooting",
+    "date":"2018-03-17T04:00:00.000Z",
+    "hood":"Yorkdale-Glen Park (31)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.318161,43.7645187 ]
+    },
+    "properties": {
+    "index":1148,
+    "eventID":"GO-2018619032",
+    "type":"Shooting",
+    "date":"2018-04-06T04:00:00.000Z",
+    "hood":"Wexford/Maryvale (119)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3431168,43.694725 ]
+    },
+    "properties": {
+    "index":1149,
+    "eventID":"GO-2018639035",
+    "type":"Stabbing",
+    "date":"2018-04-10T04:00:00.000Z",
+    "hood":"Old East York (58)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2526016,43.7274628 ]
+    },
+    "properties": {
+    "index":1150,
+    "eventID":"GO-2018711594",
+    "type":"Stabbing",
+    "date":"2018-04-21T04:00:00.000Z",
+    "hood":"Kennedy Park (124)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4105606,43.7599487 ]
+    },
+    "properties": {
+    "index":1151,
+    "eventID":"GO-2018725711",
+    "type":"Other",
+    "date":"2018-04-23T04:00:00.000Z",
+    "hood":"Willowdale East (51)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4105606,43.7599487 ]
+    },
+    "properties": {
+    "index":1152,
+    "eventID":"GO-2018725711",
+    "type":"Other",
+    "date":"2018-04-23T04:00:00.000Z",
+    "hood":"Willowdale East (51)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4105606,43.7599487 ]
+    },
+    "properties": {
+    "index":1153,
+    "eventID":"GO-2018725711",
+    "type":"Other",
+    "date":"2018-04-23T04:00:00.000Z",
+    "hood":"Willowdale East (51)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4105606,43.7599487 ]
+    },
+    "properties": {
+    "index":1154,
+    "eventID":"GO-2018725711",
+    "type":"Other",
+    "date":"2018-04-23T04:00:00.000Z",
+    "hood":"Willowdale East (51)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4105606,43.7599487 ]
+    },
+    "properties": {
+    "index":1155,
+    "eventID":"GO-2018725711",
+    "type":"Other",
+    "date":"2018-04-23T04:00:00.000Z",
+    "hood":"Willowdale East (51)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4105606,43.7599487 ]
+    },
+    "properties": {
+    "index":1156,
+    "eventID":"GO-2018725711",
+    "type":"Other",
+    "date":"2018-04-23T04:00:00.000Z",
+    "hood":"Willowdale East (51)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4105606,43.7599487 ]
+    },
+    "properties": {
+    "index":1157,
+    "eventID":"GO-2018725711",
+    "type":"Other",
+    "date":"2018-04-23T04:00:00.000Z",
+    "hood":"Willowdale East (51)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4105606,43.7599487 ]
+    },
+    "properties": {
+    "index":1158,
+    "eventID":"GO-2018725711",
+    "type":"Other",
+    "date":"2018-04-23T04:00:00.000Z",
+    "hood":"Willowdale East (51)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4105606,43.7599487 ]
+    },
+    "properties": {
+    "index":1159,
+    "eventID":"GO-2018725711",
+    "type":"Other",
+    "date":"2018-04-23T04:00:00.000Z",
+    "hood":"Willowdale East (51)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4105606,43.7599487 ]
+    },
+    "properties": {
+    "index":1160,
+    "eventID":"GO-2018725711",
+    "type":"Other",
+    "date":"2018-04-23T04:00:00.000Z",
+    "hood":"Willowdale East (51)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2787476,43.6747742 ]
+    },
+    "properties": {
+    "index":1161,
+    "eventID":"GO-2018813479",
+    "type":"Stabbing",
+    "date":"2018-05-06T04:00:00.000Z",
+    "hood":"Birchcliffe-Cliffside (122)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5501633,43.6733971 ]
+    },
+    "properties": {
+    "index":1162,
+    "eventID":"GO-2018821806",
+    "type":"Shooting",
+    "date":"2018-05-07T04:00:00.000Z",
+    "hood":"Princess-Rosethorn (10)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2161942,43.775425 ]
+    },
+    "properties": {
+    "index":1163,
+    "eventID":"GO-2018907125",
+    "type":"Shooting",
+    "date":"2018-05-20T04:00:00.000Z",
+    "hood":"Morningside (135)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3797302,43.6473351 ]
+    },
+    "properties": {
+    "index":1164,
+    "eventID":"GO-2018911506",
+    "type":"Shooting",
+    "date":"2018-05-20T04:00:00.000Z",
+    "hood":"Bay Street Corridor (76)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.405304,43.670311 ]
+    },
+    "properties": {
+    "index":1165,
+    "eventID":"GO-2018929488",
+    "type":"Stabbing",
+    "date":"2018-05-23T04:00:00.000Z",
+    "hood":"Annex (95)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3495483,43.6913719 ]
+    },
+    "properties": {
+    "index":1166,
+    "eventID":"GO-2018946587",
+    "type":"Other",
+    "date":"2018-05-25T04:00:00.000Z",
+    "hood":"Old East York (58)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.301178,43.6781273 ]
+    },
+    "properties": {
+    "index":1167,
+    "eventID":"GO-2018945776",
+    "type":"Stabbing",
+    "date":"2018-05-25T04:00:00.000Z",
+    "hood":"East End-Danforth (62)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2242279,43.8044968 ]
+    },
+    "properties": {
+    "index":1170,
+    "eventID":"GO-2018958547",
+    "type":"Shooting",
+    "date":"2018-05-28T04:00:00.000Z",
+    "hood":"Malvern (132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3901978,43.67136 ]
+    },
+    "properties": {
+    "index":1171,
+    "eventID":"GO-2018965463",
+    "type":"Shooting",
+    "date":"2018-05-28T04:00:00.000Z",
+    "hood":"Annex (95)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.380928,43.6563301 ]
+    },
+    "properties": {
+    "index":1172,
+    "eventID":"GO-2018979942",
+    "type":"Shooting",
+    "date":"2018-05-30T04:00:00.000Z",
+    "hood":"Church-Yonge Corridor (75)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5093994,43.6025887 ]
+    },
+    "properties": {
+    "index":1173,
+    "eventID":"GO-20181021340",
+    "type":"Shooting",
+    "date":"2018-06-05T04:00:00.000Z",
+    "hood":"New Toronto (18)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4329147,43.6478195 ]
+    },
+    "properties": {
+    "index":1175,
+    "eventID":"GO-20181046556",
+    "type":"Stabbing",
+    "date":"2018-06-09T04:00:00.000Z",
+    "hood":"Little Portugal (84)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4094772,43.6450157 ]
+    },
+    "properties": {
+    "index":1176,
+    "eventID":"GO-20181066328",
+    "type":"Other",
+    "date":"2018-06-09T04:00:00.000Z",
+    "hood":"Niagara (82)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4353638,43.644207 ]
+    },
+    "properties": {
+    "index":1177,
+    "eventID":"GO-20181075301",
+    "type":"Other",
+    "date":"2018-06-13T04:00:00.000Z",
+    "hood":"Roncesvalles (86)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.249176,43.7191925 ]
+    },
+    "properties": {
+    "index":1178,
+    "eventID":"GO-20181091522",
+    "type":"Stabbing",
+    "date":"2018-06-16T04:00:00.000Z",
+    "hood":"Cliffcrest (123)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3867874,43.6702271 ]
+    },
+    "properties": {
+    "index":1179,
+    "eventID":"GO-20181106259",
+    "type":"Other",
+    "date":"2018-06-18T04:00:00.000Z",
+    "hood":"Rosedale-Moore Park (98)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4439087,43.7194862 ]
+    },
+    "properties": {
+    "index":1180,
+    "eventID":"GO-20181146367",
+    "type":"Shooting",
+    "date":"2018-06-24T04:00:00.000Z",
+    "hood":"Englemount-Lawrence (32)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5764389,43.7384567 ]
+    },
+    "properties": {
+    "index":1181,
+    "eventID":"GO-20181146418",
+    "type":"Shooting",
+    "date":"2018-06-24T04:00:00.000Z",
+    "hood":"Thistletown-Beaumond Heights (3)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5764389,43.7384567 ]
+    },
+    "properties": {
+    "index":1182,
+    "eventID":"GO-20181146418",
+    "type":"Shooting",
+    "date":"2018-06-24T04:00:00.000Z",
+    "hood":"Thistletown-Beaumond Heights (3)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.590126,43.7374535 ]
+    },
+    "properties": {
+    "index":1184,
+    "eventID":"GO-20181142174",
+    "type":"Stabbing",
+    "date":"2018-06-23T04:00:00.000Z",
+    "hood":"Mount Olive-Silverstone-Jamestown (2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3710327,43.6582947 ]
+    },
+    "properties": {
+    "index":1185,
+    "eventID":"GO-20181152121",
+    "type":"Shooting",
+    "date":"2018-06-25T04:00:00.000Z",
+    "hood":"Moss Park (73)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3936996,43.649353 ]
+    },
+    "properties": {
+    "index":1186,
+    "eventID":"GO-20181191880",
+    "type":"Shooting",
+    "date":"2018-06-30T04:00:00.000Z",
+    "hood":"Kensington-Chinatown (78)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3936996,43.649353 ]
+    },
+    "properties": {
+    "index":1187,
+    "eventID":"GO-20181191880",
+    "type":"Shooting",
+    "date":"2018-06-30T04:00:00.000Z",
+    "hood":"Kensington-Chinatown (78)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3323822,43.6814842 ]
+    },
+    "properties": {
+    "index":1188,
+    "eventID":"GO-20181194072",
+    "type":"Stabbing",
+    "date":"2018-07-01T04:00:00.000Z",
+    "hood":"Danforth (66)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4023361,43.6552353 ]
+    },
+    "properties": {
+    "index":1189,
+    "eventID":"GO-20181198918",
+    "type":"Shooting",
+    "date":"2018-07-01T04:00:00.000Z",
+    "hood":"Kensington-Chinatown (78)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5147705,43.7672119 ]
+    },
+    "properties": {
+    "index":1190,
+    "eventID":"GO-20181240749",
+    "type":"Shooting",
+    "date":"2018-07-08T04:00:00.000Z",
+    "hood":"Black Creek (24)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5187607,43.769165 ]
+    },
+    "properties": {
+    "index":1191,
+    "eventID":"GO-20181245963",
+    "type":"Shooting",
+    "date":"2018-07-09T04:00:00.000Z",
+    "hood":"Black Creek (24)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.288559,43.7043839 ]
+    },
+    "properties": {
+    "index":1192,
+    "eventID":"GO-20181221507",
+    "type":"Other",
+    "date":"2018-07-05T04:00:00.000Z",
+    "hood":"Clairlea-Birchmount (120)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3519669,43.6775589 ]
+    },
+    "properties": {
+    "index":1193,
+    "eventID":"GO-20181341286",
+    "type":"Shooting",
+    "date":"2018-07-23T04:00:00.000Z",
+    "hood":"Playter Estates-Danforth (67)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3475571,43.656498 ]
+    },
+    "properties": {
+    "index":1194,
+    "eventID":"GO-20181329654",
+    "type":"Stabbing",
+    "date":"2018-07-21T04:00:00.000Z",
+    "hood":"South Riverdale (70)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3519669,43.6775589 ]
+    },
+    "properties": {
+    "index":1195,
+    "eventID":"GO-20181341286",
+    "type":"Shooting",
+    "date":"2018-07-23T04:00:00.000Z",
+    "hood":"Playter Estates-Danforth (67)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5688705,43.7547112 ]
+    },
+    "properties": {
+    "index":1196,
+    "eventID":"GO-20181358001",
+    "type":"Shooting",
+    "date":"2018-07-25T04:00:00.000Z",
+    "hood":"Humber Summit (21)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5894241,43.7320251 ]
+    },
+    "properties": {
+    "index":1202,
+    "eventID":"GO-20181508181",
+    "type":"Shooting",
+    "date":"2018-08-15T04:00:00.000Z",
+    "hood":"Mount Olive-Silverstone-Jamestown (2)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5555344,43.6925735 ]
+    },
+    "properties": {
+    "index":1203,
+    "eventID":"GO-20181526723",
+    "type":"Stabbing",
+    "date":"2018-08-18T04:00:00.000Z",
+    "hood":"Kingsview Village-The Westway (6)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5569077,43.6101265 ]
+    },
+    "properties": {
+    "index":1204,
+    "eventID":"GO-20181527703",
+    "type":"Stabbing",
+    "date":"2018-08-18T04:00:00.000Z",
+    "hood":"Islington-City Centre West (14)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3662109,43.6526985 ]
+    },
+    "properties": {
+    "index":1205,
+    "eventID":"GO-20181528994",
+    "type":"Shooting",
+    "date":"2018-08-19T04:00:00.000Z",
+    "hood":"Moss Park (73)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3406067,43.6797943 ]
+    },
+    "properties": {
+    "index":1206,
+    "eventID":"GO-20181548479",
+    "type":"Shooting",
+    "date":"2018-08-22T04:00:00.000Z",
+    "hood":"Danforth (66)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5008926,43.6913033 ]
+    },
+    "properties": {
+    "index":1207,
+    "eventID":"GO-20181549969",
+    "type":"Shooting",
+    "date":"2018-08-22T04:00:00.000Z",
+    "hood":"Mount Dennis (115)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5088959,43.6015396 ]
+    },
+    "properties": {
+    "index":1208,
+    "eventID":"GO-20181494077",
+    "type":"Other",
+    "date":"2018-08-13T04:00:00.000Z",
+    "hood":"New Toronto (18)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5162048,43.700161 ]
+    },
+    "properties": {
+    "index":1209,
+    "eventID":"GO-20181562384",
+    "type":"Stabbing",
+    "date":"2018-08-24T04:00:00.000Z",
+    "hood":"Weston (113)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2430801,43.812973 ]
+    },
+    "properties": {
+    "index":1210,
+    "eventID":"GO-20181564549",
+    "type":"Other",
+    "date":"2018-08-24T04:00:00.000Z",
+    "hood":"Rouge (131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3584595,43.6618919 ]
+    },
+    "properties": {
+    "index":1211,
+    "eventID":"GO-20181599566",
+    "type":"Other",
+    "date":"2018-08-29T04:00:00.000Z",
+    "hood":"Regent Park (72)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5569077,43.6101265 ]
+    },
+    "properties": {
+    "index":1213,
+    "eventID":"GO-20181527703",
+    "type":"Stabbing",
+    "date":"2018-08-18T04:00:00.000Z",
+    "hood":"Islington-City Centre West (14)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2755432,43.7015152 ]
+    },
+    "properties": {
+    "index":1214,
+    "eventID":"GO-20181609974",
+    "type":"Shooting",
+    "date":"2018-08-31T04:00:00.000Z",
+    "hood":"Clairlea-Birchmount (120)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2101669,43.8091469 ]
+    },
+    "properties": {
+    "index":1215,
+    "eventID":"GO-20181622696",
+    "type":"Shooting",
+    "date":"2018-09-02T04:00:00.000Z",
+    "hood":"Malvern (132)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4032898,43.6357384 ]
+    },
+    "properties": {
+    "index":1216,
+    "eventID":"GO-20181626502",
+    "type":"Shooting",
+    "date":"2018-09-02T04:00:00.000Z",
+    "hood":"Niagara (82)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4631729,43.674015 ]
+    },
+    "properties": {
+    "index":1217,
+    "eventID":"GO-20181665625",
+    "type":"Shooting",
+    "date":"2018-09-08T04:00:00.000Z",
+    "hood":"Weston-Pellam Park (91)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4353638,43.644207 ]
+    },
+    "properties": {
+    "index":1218,
+    "eventID":"GO-20181668023",
+    "type":"Other",
+    "date":"2018-09-08T04:00:00.000Z",
+    "hood":"Roncesvalles (86)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5697632,43.6827621 ]
+    },
+    "properties": {
+    "index":1219,
+    "eventID":"GO-20181684842",
+    "type":"Stabbing",
+    "date":"2018-09-11T04:00:00.000Z",
+    "hood":"Willowridge-Martingrove-Richview (7)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2326126,43.7416115 ]
+    },
+    "properties": {
+    "index":1220,
+    "eventID":"GO-20181706301",
+    "type":"Shooting",
+    "date":"2018-09-14T04:00:00.000Z",
+    "hood":"Eglinton East (138)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2624893,43.7888451 ]
+    },
+    "properties": {
+    "index":1221,
+    "eventID":"GO-20181733104",
+    "type":"Shooting",
+    "date":"2018-09-18T04:00:00.000Z",
+    "hood":"Agincourt South-Malvern West (128)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4178238,43.7889824 ]
+    },
+    "properties": {
+    "index":1222,
+    "eventID":"GO-20181739446",
+    "type":"Stabbing",
+    "date":"2018-09-19T04:00:00.000Z",
+    "hood":"Newtonbrook East (50)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3448181,43.7726898 ]
+    },
+    "properties": {
+    "index":1223,
+    "eventID":"GO-20181772173",
+    "type":"Shooting",
+    "date":"2018-09-24T04:00:00.000Z",
+    "hood":"Henry Farm (53)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3634949,43.6592712 ]
+    },
+    "properties": {
+    "index":1224,
+    "eventID":"GO-20181777456",
+    "type":"Shooting",
+    "date":"2018-09-25T04:00:00.000Z",
+    "hood":"Regent Park (72)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4946518,43.7777214 ]
+    },
+    "properties": {
+    "index":1225,
+    "eventID":"GO-20181823974",
+    "type":"Shooting",
+    "date":"2018-10-02T04:00:00.000Z",
+    "hood":"York University Heights (27)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2993469,43.783596 ]
+    },
+    "properties": {
+    "index":1226,
+    "eventID":"GO-20181827810",
+    "type":"Shooting",
+    "date":"2018-10-03T04:00:00.000Z",
+    "hood":"Tam O'Shanter-Sullivan (118)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3484955,43.6591949 ]
+    },
+    "properties": {
+    "index":1227,
+    "eventID":"GO-20181839683",
+    "type":"Other",
+    "date":"2018-10-04T04:00:00.000Z",
+    "hood":"South Riverdale (70)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4890976,43.7348633 ]
+    },
+    "properties": {
+    "index":1228,
+    "eventID":"GO-20181879521",
+    "type":"Shooting",
+    "date":"2018-10-11T04:00:00.000Z",
+    "hood":"Downsview-Roding-CFB (26)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2645569,43.7327728 ]
+    },
+    "properties": {
+    "index":1229,
+    "eventID":"GO-20181939006",
+    "type":"Stabbing",
+    "date":"2018-10-20T04:00:00.000Z",
+    "hood":"Kennedy Park (124)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2867279,43.7000847 ]
+    },
+    "properties": {
+    "index":1230,
+    "eventID":"GO-20181923388",
+    "type":"Other",
+    "date":"2018-10-18T04:00:00.000Z",
+    "hood":"Clairlea-Birchmount (120)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3771439,43.6565018 ]
+    },
+    "properties": {
+    "index":1231,
+    "eventID":"GO-20181887731",
+    "type":"Other",
+    "date":"2018-10-12T04:00:00.000Z",
+    "hood":"Church-Yonge Corridor (75)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5304413,43.7194748 ]
+    },
+    "properties": {
+    "index":1232,
+    "eventID":"GO-20182096419",
+    "type":"Shooting",
+    "date":"2018-11-14T05:00:00.000Z",
+    "hood":"Pelmo Park-Humberlea (23)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.1896133,43.7676544 ]
+    },
+    "properties": {
+    "index":1233,
+    "eventID":"GO-20182124586",
+    "type":"Shooting",
+    "date":"2018-11-18T05:00:00.000Z",
+    "hood":"West Hill (136)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3694611,43.6545258 ]
+    },
+    "properties": {
+    "index":1234,
+    "eventID":"GO-20182113063",
+    "type":"Other",
+    "date":"2018-11-16T05:00:00.000Z",
+    "hood":"Moss Park (73)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3748474,43.660656 ]
+    },
+    "properties": {
+    "index":1235,
+    "eventID":"GO-20182242344",
+    "type":"Stabbing",
+    "date":"2018-12-06T05:00:00.000Z",
+    "hood":"Moss Park (73)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5486755,43.7013283 ]
+    },
+    "properties": {
+    "index":1236,
+    "eventID":"GO-20182280579",
+    "type":"Shooting",
+    "date":"2018-12-12T05:00:00.000Z",
+    "hood":"Kingsview Village-The Westway (6)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5177765,43.7590179 ]
+    },
+    "properties": {
+    "index":1237,
+    "eventID":"GO-20182315055",
+    "type":"Shooting",
+    "date":"2018-12-18T05:00:00.000Z",
+    "hood":"Black Creek (24)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.397644,43.6449547 ]
+    },
+    "properties": {
+    "index":1238,
+    "eventID":"GO-20182320758",
+    "type":"Shooting",
+    "date":"2018-12-19T05:00:00.000Z",
+    "hood":"Waterfront Communities-The Island (77)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5858307,43.7509766 ]
+    },
+    "properties": {
+    "index":1240,
+    "eventID":"GO-20182339244",
+    "type":"Shooting",
+    "date":"2018-12-21T05:00:00.000Z",
+    "hood":"Mount Olive-Silverstone-Jamestown (2)"
+    }
+  }
+]
+}
